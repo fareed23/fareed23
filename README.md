@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🙋🏻‍♂️, Myself Fareed Khan</h1>
+<h1 align="center">Hi there 🙋🏻‍♂️, I am Fareed Khan</h1>
 <h3 align="center">An Avid Flutter Developer and Data Scientist Specializing in ML & DL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareed23&label=Profile%20views&color=0e75b6&style=flat" alt="fareed23" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fareedcodes" target="blank"><img src="https://img.shields.io/twitter/follow/fareedcodes?logo=twitter&style=for-the-badge" alt="fareedcodes" /></a> </p>
 
-- 🔭 I’m currently working on **Image Classification, Object Detection and Segementation**
+- 🔭 I’m currently working on **Image Classification, Object Detection and Segmentation**
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, MLOps**
 
