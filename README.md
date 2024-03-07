@@ -5,7 +5,7 @@ Fareed is an avid Flutter Developer and Data Scientist Specializing in ML & DL.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [faroodcp9@gmail.com](mailto:faroodcp9@gmail.com)
-* 🧠  I'm learning TensorFlow, PyTorch, YOLO, SEEM
+* 🧠  I'm learning PyTorch, YOLO, SEEM
 * 🤝  I'm open to collaborating on Flutter, Machine Learning, and Deep Learning
 
 #### Skills
